@@ -21,6 +21,9 @@ OpenCV
 dataフォルダ : 笑い男のパーツ画像が入っています。    
 laughingMan.pde : processingの実行ファイルです。  
 
+実行イメージ  
+---  
+https://vimeo.com/117103455
 
 
 
